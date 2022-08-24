@@ -1,3 +1,3 @@
 echo "Suh, dude"
 
-echo "lick my sack"
+echo "hello friends"
