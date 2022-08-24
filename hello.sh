@@ -1,1 +1,1 @@
-Suh, dude
+echo "Suh, dude"
